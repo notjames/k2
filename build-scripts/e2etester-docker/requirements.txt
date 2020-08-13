@@ -36,4 +36,4 @@ requests==2.4.3
 rsa==3.3
 six==1.8.0
 stevedore==1.16.0
-urllib3==1.9.1
+urllib3==1.24.2
