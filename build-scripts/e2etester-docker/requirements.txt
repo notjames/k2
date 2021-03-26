@@ -31,7 +31,7 @@ pyOpenSSL==0.14
 python-dateutil==2.5.3
 python-jenkins==0.4.13
 python-keyczar==0.716
-PyYAML==3.11
+PyYAML==5.4
 requests==2.4.3
 rsa==3.3
 six==1.8.0
