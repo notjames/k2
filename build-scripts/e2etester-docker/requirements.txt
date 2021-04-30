@@ -33,7 +33,7 @@ python-jenkins==0.4.13
 python-keyczar==0.716
 PyYAML==3.11
 requests==2.4.3
-rsa==3.3
+rsa==4.7
 six==1.8.0
 stevedore==1.16.0
 urllib3==1.9.1
